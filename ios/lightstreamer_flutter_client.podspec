@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint lightstreamer_flutter_client.podspec` to validate before publishing.
+# Run `pod lib lint lightstreamer_flutter_client_native.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'lightstreamer_flutter_client'
+  s.name             = 'lightstreamer_flutter_client_native'
   s.version          = '1.0.4'
   s.summary          = 'A Flutter plugin for Lightstreamer.'
   s.homepage         = 'https://github.com/Lightstreamer/lightstreamer_flutter_client'
